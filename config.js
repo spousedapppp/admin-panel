@@ -1,1 +1,1 @@
-export const HOSTNAME = "http://localhost:4000/api/v1";
+export const HOSTNAME = "https://spoused-backend-rm6e.onrender.com/api/v1";
